@@ -1,6 +1,7 @@
 public class Variaveis {
 
-    //O que sao variaveis
+    //O que são variaveis
+
 
 
 }
